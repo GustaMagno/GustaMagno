@@ -1,33 +1,34 @@
-# Olá, eu sou o Gustavo Siqueira! 👋
+# Hi, I'm Gustavo Siqueira! 👋
 
-Estudante de Engenharia de Software na **42 Lisboa** (desde Abril de 2025) e entusiasta da resolução de problemas através do código. Atualmente, foco-me em dominar linguagens de baixo e alto nível e em construir uma base sólida em algoritmos e estruturas de dados.
+Software Engineering student at **42 Lisboa** (since April 2025) and a problem-solving enthusiast through code. Currently, I am focused on mastering low and high-level languages and building a solid foundation in algorithms and data structures.
 
-## 🚀 Sobre Mim
-- 🎓 **Educação:** Focando 100% no currículo intensivo e prático da **42 Lisboa**.
-- 🛠️ **Experiência:** Tenho um background sólido em suporte técnico e informática (freelancer), lidando com manutenção e otimização de sistemas.
-- 💡 **Filosofia:** Acredito na aprendizagem contínua e no *peer-learning*.
-- 🏅 **Destaque:** Aluno Quadro de Ouro no ensino secundário.
+## 🚀 About Me
+- 🎓 **Education:** 100% focused on the intensive and practical curriculum at **42 Lisboa**.
+- 🛠️ **Experience:** Solid background in IT support and technical services (freelancer), handling system maintenance and optimization.[cite: 3]
+- 💡 **Philosophy:** I believe in continuous learning and peer-learning.[cite: 3]
+- 🏅 **Highlight:** Honor Roll student ("Quadro de Ouro") during secondary education.[cite: 3]
 
-## 🛠️ Tecnologias e Ferramentas
-### Linguagens de Programação
-- **Baixo Nível:** C, C++
-- **Scripting & Web:** Python, JavaScript, HTML
-- **Lógica:** Portugol / Visualg
+## 🛠️ Technologies & Tools
+### Programming Languages
+- **Low-Level:** C, C++[cite: 3]
+- **Scripting & Web:** Python, JavaScript, HTML[cite: 3]
+- **Logic:** Portugol / Visualg[cite: 3]
 
-### Softwares & Ferramentas
-- Microsoft Office (Excel, PowerPoint, Word)
-- Suporte Técnico & Diagnóstico de Hardware/Software
+### Software & Tools
+- Microsoft Office (Excel, PowerPoint, Word)[cite: 3]
+- IT Support & Hardware/Software Diagnostics[cite: 3]
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=radical" alt="Estatísticas do Gustavo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=radical" alt="Gustavo's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## 📫 Vamos conectar?
-- **LinkedIn:** [gustavo-siqueira-81ab43407](https://www.linkedin.com/in/gustavo-siqueira-81ab43407)
-- **Email:** gumagno2005@gmail.com
+## 📫 Let's connect!
+- **LinkedIn:** [gustavo-siqueira-81ab43407](https://www.linkedin.com/in/gustavo-siqueira-81ab43407)[cite: 3]
+- **Email:** gumagno2005@gmail.com[cite: 3]
+
 ---
-*“A lógica é o princípio da sabedoria, não o fim.”*
+*"Logic is the beginning of wisdom, not the end."*
