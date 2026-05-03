@@ -19,7 +19,9 @@ Estudante de Engenharia de Software na **42 Lisboa** (desde Abril de 2025) e ent
 - Suporte Técnico & Diagnóstico de Hardware/Software
 
 ## 📊 Estatísticas do GitHub
+
 ![Estatísticas do Gustavo](https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=radical)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=radical)
 
 ## 📫 Vamos conectar?
