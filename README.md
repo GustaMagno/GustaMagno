@@ -20,9 +20,11 @@ Estudante de Engenharia de Software na **42 Lisboa** (desde Abril de 2025) e ent
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do Gustavo](https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=radical" alt="Estatísticas do Gustavo" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ## 📫 Vamos conectar?
 - **LinkedIn:** [gustavo-siqueira-81ab43407](https://www.linkedin.com/in/gustavo-siqueira-81ab43407)
