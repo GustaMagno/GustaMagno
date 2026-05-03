@@ -4,19 +4,19 @@ Software Engineering student at **42 Lisboa** (since April 2025) and a problem-s
 
 ## 🚀 About Me
 - 🎓 **Education:** 100% focused on the intensive and practical curriculum at **42 Lisboa**.
-- 🛠️ **Experience:** Solid background in IT support and technical services (freelancer), handling system maintenance and optimization.[cite: 3]
-- 💡 **Philosophy:** I believe in continuous learning and peer-learning.[cite: 3]
-- 🏅 **Highlight:** Honor Roll student ("Quadro de Ouro") during secondary education.[cite: 3]
+- 🛠️ **Experience:** Solid background in IT support and technical services (freelancer), handling system maintenance and optimization.
+- 💡 **Philosophy:** I believe in continuous learning and peer-learning.
+- 🏅 **Highlight:** Honor Roll student ("Quadro de Ouro") during secondary education.
 
 ## 🛠️ Technologies & Tools
 ### Programming Languages
-- **Low-Level:** C, C++[cite: 3]
-- **Scripting & Web:** Python, JavaScript, HTML[cite: 3]
-- **Logic:** Portugol / Visualg[cite: 3]
+- **Low-Level:** C, C++
+- **Scripting & Web:** Python, JavaScript, HTML
+- **Logic:** Portugol / Visualg
 
 ### Software & Tools
-- Microsoft Office (Excel, PowerPoint, Word)[cite: 3]
-- IT Support & Hardware/Software Diagnostics[cite: 3]
+- Microsoft Office (Excel, PowerPoint, Word)
+- IT Support & Hardware/Software Diagnostics
 
 ## 📊 GitHub Stats
 
@@ -27,8 +27,8 @@ Software Engineering student at **42 Lisboa** (since April 2025) and a problem-s
 </p>
 
 ## 📫 Let's connect!
-- **LinkedIn:** [gustavo-siqueira-81ab43407](https://www.linkedin.com/in/gustavo-siqueira-81ab43407)[cite: 3]
-- **Email:** gumagno2005@gmail.com[cite: 3]
+- **LinkedIn:** [gustavo-siqueira-81ab43407](https://www.linkedin.com/in/gustavo-siqueira-81ab43407)
+- **Email:** gumagno2005@gmail.com
 
 ---
 *"Logic is the beginning of wisdom, not the end."*
