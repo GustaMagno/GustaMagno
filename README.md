@@ -29,11 +29,12 @@ Software Developer focused on systems programming and low-level development, wit
 | [CPP-modules](https://github.com/GustaMagno/CPP-modules) | C++ | OOP, inheritance, polymorphism and templates |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustaMagno&theme=dark" width="45%"/>
+  <a href="https://github.com/GustaMagno">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustaMagno&theme=dark" width="45%"/>
+  </a>
   <img src="https://streak-stats.demolab.com?user=GustaMagno&theme=dark" width="45%"/>
 </p>
 ---
