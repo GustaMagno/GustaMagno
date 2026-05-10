@@ -32,8 +32,10 @@ Software Developer focused on systems programming and low-level development, wit
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GustaMagno&theme=dark)](https://git.io/streak-stats)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustaMagno&theme=dark)](https://github.com/GustaMagno)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustaMagno&theme=dark" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=GustaMagno&theme=dark" width="45%"/>
+</p>
 
 ---
 
