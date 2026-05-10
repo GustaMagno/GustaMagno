@@ -32,7 +32,7 @@ Software Developer focused on systems programming and low-level development, wit
 
 ## 📊 GitHub Stats
 
-[![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=GustaMagno&show_icons=true&theme=dark)](https://github.com/GustaMagno)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GustaMagno&theme=dark)](https://git.io/streak-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaMagno&layout=compact&theme=dark)](https://github.com/GustaMagno)
 
 ---
